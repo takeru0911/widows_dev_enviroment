@@ -1,6 +1,6 @@
 # My windows dev env
 
-## applications(—\’è)
+## applications(äºˆå®š)
  * chocolatey
  * git
  * babun
