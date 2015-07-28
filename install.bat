@@ -1,0 +1,1 @@
+call install-chocolaty.bat
