@@ -1,26 +1,22 @@
-choco install wget
-choco install 7zip
-choco install dropbox
-choco install skype
-choco install javaruntime
-choco install google-chrome-x64
-choco install firefox
-choco install winrar
-choco install vagrant
-choco install nodejs.install
-choco install virtualbox
-choco install xyzzy
-choco install intellijidea-ultimate
-choco install slack
-choco install googlejapaneseinput
-choco install clover
-choco install adobereader
-choco install maven
-choco install jdk8
-choco install eclipse
-choco install emacs
-choco install python2
-choco install pip
-choco install easy.install
-choco install r.project
-choco install sudo
+choco install wget /y
+choco install 7zip /y
+choco install dropbox /y
+choco install skype /y
+choco install javaruntime /y
+choco install google-chrome-x64 /y
+choco install firefox /y
+choco install vagrant /y
+choco install nodejs.install /y
+choco install virtualbox /y
+choco install intellijidea-ultimate /y
+choco install slack /y
+choco install googlejapaneseinput /y
+choco install clover /y
+choco install adobereader /y
+choco install maven /y
+choco install jdk8 /y
+choco install eclipse /y
+choco install emacs /y
+choco install python2 /y
+choco install r.project /y
+choco install sudo /y

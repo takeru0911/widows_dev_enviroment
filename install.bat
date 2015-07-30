@@ -1,4 +1,5 @@
-call install-chocolaty.bat
-call install-utils.bat
-call install-babun.bat
-call install-wox.bat
+SET WORKING_DIR=
+call /k install-chocolaty.bat
+call /k install-utils.bat
+call /k install-babun.bat
+call /k install-wox.bat
